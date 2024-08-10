@@ -401,11 +401,11 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
-    libhwdap \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
     libshoebox \
+    libswdap \
     libswgamedap \
     libswvqe \
     vendor.qti.hardware.audiohalext@1.0 \
