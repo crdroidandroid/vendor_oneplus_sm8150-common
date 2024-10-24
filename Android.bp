@@ -369,6 +369,13 @@ install_symlink {
 }
 
 install_symlink {
+	name: "odm_etc_acdbdata_adsp_avs_config_acdb",
+	device_specific: true,
+	installed_location: "etc/acdbdata/adsp_avs_config.acdb",
+	symlink_target: "/vendor/etc/acdbdata/adsp_avs_config.acdb",
+}
+
+install_symlink {
 	name: "libEGL_adreno_libEGL_adreno_symlink32",
 	soc_specific: true,
 	installed_location: "lib/libEGL_adreno.so",
