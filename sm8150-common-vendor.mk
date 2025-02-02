@@ -522,6 +522,7 @@ PRODUCT_PACKAGES += \
     libdisp-aba \
     libdisplayqos \
     libdpmqmihal \
+    libdpps \
     libdrmfs \
     libdrmtime \
     libgdtap \
